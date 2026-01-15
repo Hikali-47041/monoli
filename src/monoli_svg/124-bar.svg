@@ -9,7 +9,7 @@
    id="svg1"
    xml:space="preserve"
    viewBox="0 0 1000 1000"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,7 +24,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.6575"
-     inkscape:cx="355.13308"
+     inkscape:cx="356.65399"
      inkscape:cy="479.84791"
      inkscape:document-units="px"
      inkscape:current-layer="svg1"
@@ -531,13 +531,8 @@
          id="missing-glyph8-7-5" /></font></defs><metadata
      id="metadata7"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><rect
-     style="fill:#000000;stroke-width:0.633448;paint-order:stroke markers fill"
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><path
      id="rect2-0"
-     width="80"
-     height="920"
-     x="460"
-     y="40"
-     ry="8"
-     rx="8"
-     inkscape:label="comma" /></svg>
+     style="stroke-width:0.633448;paint-order:stroke markers fill"
+     inkscape:label="comma"
+     d="m 468,40 h 64 c 4.432,0 8,3.568 8,8 v 904 c 0,4.432 -3.568,8 -8,8 h -64 c -4.432,0 -8,-3.568 -8,-8 V 48 c 0,-4.432 3.568,-8 8,-8 z" /></svg>

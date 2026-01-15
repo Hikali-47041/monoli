@@ -4,12 +4,12 @@
 <svg
    height="1000"
    width="1000"
-   sodipodi:docname="52-four.svg"
+   sodipodi:docname="052-four.svg"
    version="1.1"
    id="svg1"
    xml:space="preserve"
    viewBox="0 0 1000 1000"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      borderopacity="0.3"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="535"
-     inkscape:cy="419"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="511.94531"
+     inkscape:cy="528.56232"
      inkscape:document-units="px"
      inkscape:current-layer="svg1"
      showgrid="false"
@@ -1707,4 +1707,4 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><path
      id="rect1"
      style="fill:#000000;stroke-width:1.00157;paint-order:stroke markers fill"
-     d="M 540,160 300,575.69141 a 0.00414385,0.00414385 90 0 1 0,0.008 v 73 a 7,7 45 0 0 7,7 H 540 V 793 a 7,7 45 0 0 7,7 h 66 a 7,7 135 0 0 7,-7 V 655.69922 h 73 a 7,7 135 0 0 7,-7 v -66 a 7,7 45 0 0 -7,-7 l -73,0 V 167 a 7,7 45 0 0 -7,-7 z m 0,159.99805 V 575.69922 H 392.37109 Z" /></svg>
+     d="M 540 160 L 300 575.69141 A 0.00414385 0.00414385 0 0 1 300.00195 575.69141 A 0.00414385 0.00414385 0 0 1 300.00195 575.69336 A 0.00414385 0.00414385 0 0 1 300.00391 575.69531 A 0.00414385 0.00414385 0 0 1 300.00195 575.69727 A 0.00414385 0.00414385 0 0 1 300.00195 575.69922 A 0.00414385 0.00414385 0 0 1 300 575.69922 L 300 648.69922 A 7 7 0 0 0 307 655.69922 L 540 655.69922 L 540 793 A 7 7 0 0 0 547 800 L 613 800 A 7 7 0 0 0 620 793 L 620 655.69922 L 693 655.69922 A 7 7 0 0 0 700 648.69922 L 700 582.69922 A 7 7 0 0 0 693 575.69922 L 620 575.69922 L 620 167 A 7 7 0 0 0 613 160 L 540 160 z M 540 319.99805 L 540 575.69922 L 392.37109 575.69922 L 540 319.99805 z " /></svg>

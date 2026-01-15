@@ -9,7 +9,7 @@
    id="svg1"
    xml:space="preserve"
    viewBox="0 0 1000 1000"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      borderopacity="0.3"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7071068"
-     inkscape:cx="283.54981"
-     inkscape:cy="439.1133"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="506.49999"
+     inkscape:cy="775.24998"
      inkscape:document-units="px"
      inkscape:current-layer="svg1"
      showgrid="false"
@@ -2416,12 +2416,4 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><path
      id="rect12"
      style="fill:#000000;stroke-width:1.00157;paint-order:stroke markers fill"
-     d="m 300,188 v 64 200 80 a 8,8 0 0 0 8,8 h 304 a 8,8 0 0 1 8,8 v 184 a 8,8 0 0 1 -8,8 H 388 a 8,8 0 0 1 -8,-8 v -64 a 8,8 0 0 0 -8,-8 h -64 a 8,8 0 0 0 -8,8 v 64 80 a 8,8 0 0 0 8,8 h 384 a 8,8 0 0 0 8,-8 V 748 468 a 8,8 0 0 0 -8,-8 H 388 a 8,8 0 0 1 -8,-8 V 268 a 8,8 0 0 1 8,-8 h 224 a 8,8 0 0 1 8,8 v 64 a 8,8 0 0 0 8,8 h 64 a 8,8 0 0 0 8,-8 v -64 -80 a 8,8 0 0 0 -8,-8 H 628 308 a 8,8 0 0 0 -8,8 z" /><rect
-     style="fill:#000000;stroke-width:2.77322;paint-order:stroke markers fill"
-     id="rect1"
-     width="80"
-     height="920"
-     x="460"
-     y="40"
-     rx="8"
-     ry="8" /></svg>
+     d="M 468 40 C 463.568 40 460 43.568 460 48 L 460 180 L 308 180 A 8 8 0 0 0 300 188 L 300 252 L 300 452 L 300 532 A 8 8 0 0 0 308 540 L 460 540 L 460 740 L 388 740 A 8 8 0 0 1 380 732 L 380 668 A 8 8 0 0 0 372 660 L 308 660 A 8 8 0 0 0 300 668 L 300 732 L 300 812 A 8 8 0 0 0 308 820 L 460 820 L 460 952 C 460 956.432 463.568 960 468 960 L 532 960 C 536.432 960 540 956.432 540 952 L 540 820 L 692 820 A 8 8 0 0 0 700 812 L 700 748 L 700 468 A 8 8 0 0 0 692 460 L 540 460 L 540 260 L 612 260 A 8 8 0 0 1 620 268 L 620 332 A 8 8 0 0 0 628 340 L 692 340 A 8 8 0 0 0 700 332 L 700 268 L 700 188 A 8 8 0 0 0 692 180 L 628 180 L 540 180 L 540 48 C 540 43.568 536.432 40 532 40 L 468 40 z M 388 260 L 460 260 L 460 460 L 388 460 A 8 8 0 0 1 380 452 L 380 268 A 8 8 0 0 1 388 260 z M 540 540 L 612 540 A 8 8 0 0 1 620 548 L 620 732 A 8 8 0 0 1 612 740 L 540 740 L 540 540 z " /></svg>

@@ -4,12 +4,12 @@
 <svg
    height="1000"
    width="1000"
-   sodipodi:docname="89-Y.svg"
+   sodipodi:docname="089-Y.svg"
    version="1.1"
    id="svg1"
    xml:space="preserve"
    viewBox="0 0 1000 1000"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      borderopacity="0.3"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="472.5"
-     inkscape:cy="454.5"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="649.83113"
+     inkscape:cy="127.63277"
      inkscape:document-units="px"
      inkscape:current-layer="svg1"
      showgrid="false"
@@ -873,5 +873,5 @@
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><path
      id="rect2"
-     style="fill:#000000;stroke-width:0.633447;paint-order:stroke markers fill"
-     d="M 363.2207 160.00195 C 361.93169 160.03677 360.63109 160.38563 359.43164 161.07812 L 304.00781 193.07812 C 300.16959 195.29413 298.86212 200.16959 301.07812 204.00781 L 460 479.26758 L 460 792 C 460 796.432 463.568 800 468 800 L 532 800 C 536.432 800 540 796.432 540 792 L 540 479.26758 L 698.92188 204.00781 C 701.13787 200.16959 699.83041 195.29413 695.99219 193.07812 L 640.56836 161.07812 C 636.73013 158.86212 631.85467 160.16959 629.63867 164.00781 L 500 388.54883 L 370.36133 164.00781 C 368.83783 161.36903 366.05654 159.92535 363.2207 160.00195 z " /></svg>
+     style="fill:#000000;stroke-width:0.633446;paint-order:stroke markers fill"
+     d="m 363.22061,160.0029 c -1.28901,0.0348 -2.5896,0.38368 -3.78905,1.07617 l -55.42376,31.99996 c -3.83821,2.216 -5.14568,7.09145 -2.92968,10.92967 l 158.92166,275.25939 v 312.73199 c 0,4.43199 3.56799,7.99999 7.99999,7.99999 h 63.99991 c 4.43199,0 7.99999,-3.568 7.99999,-7.99999 V 479.26809 L 698.92133,204.0087 c 2.21599,-3.83822 0.90853,-8.71367 -2.92969,-10.92967 l -55.42375,-31.99996 c -3.83822,-2.216 -8.71368,-0.90853 -10.92968,2.92968 L 499.99972,388.54947 370.36123,164.00875 c -1.52349,-2.63877 -4.30479,-4.08245 -7.14062,-4.00585 z" /></svg>

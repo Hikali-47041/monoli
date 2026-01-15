@@ -9,7 +9,7 @@
    id="svg1"
    xml:space="preserve"
    viewBox="0 0 1000 1000"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      borderopacity="0.3"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7071068"
-     inkscape:cx="275.06453"
-     inkscape:cy="511.23819"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="418.6072"
+     inkscape:cy="421.08208"
      inkscape:document-units="px"
      inkscape:current-layer="svg1"
      showgrid="false"
@@ -2432,4 +2432,5 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><path
      id="rect13"
      style="fill:#000000;stroke-width:1.00157;paint-order:stroke markers fill"
-     d="m 300,168 v 64 480 80 a 8,8 45 0 0 8,8 h 384 a 8,8 135 0 0 8,-8 v -64 a 8,8 45 0 0 -8,-8 H 388 a 8,8 45 0 1 -8,-8 l 0,-464 a 8,8 135 0 1 8,-8 h 224 a 8,8 45 0 1 8,8 v 144 a 8,8 135 0 1 -8,8 h -64 -80 a 8,8 135 0 0 -8,8 v 64 80 80 a 8,8 45 0 0 8,8 h 64 160 a 8,8 135 0 0 8,-8 V 568 168 a 8,8 45 0 0 -8,-8 H 308 a 8,8 135 0 0 -8,8 z m 248,312 h 64 a 8,8 45 0 1 8,8 v 64 a 8,8 135 0 1 -8,8 h -64 a 8,8 45 0 1 -8,-8 v -64 a 8,8 135 0 1 8,-8 z" /></svg>
+     d="m 300,168 v 624 c 0,4.41828 3.58172,8 8,8 h 384 c 4.41828,0 8,-3.58172 8,-8 v -64 c 0,-4.41828 -3.58172,-8 -8,-8 H 388 c -4.41828,0 -8,-3.58172 -8,-8 V 248 c 0,-4.41828 3.58172,-8 8,-8 h 224 c 4.41828,0 8,3.58172 8,8 v 144 c 0,4.41828 -3.58172,8 -8,8 H 468 c -4.41828,0 -8,3.58172 -8,8 v 224 c 0,4.41828 3.58172,8 8,8 h 224 c 4.41828,0 8,-3.58172 8,-8 V 168 c 0,-4.41828 -3.58172,-8 -8,-8 H 308 c -4.41828,0 -8,3.58172 -8,8 z m 248,312 h 64 c 4.41828,0 8,3.58172 8,8 v 64 c 0,4.41828 -3.58172,8 -8,8 h -64 c -4.41828,0 -8,-3.58172 -8,-8 v -64 c 0,-4.41828 3.58172,-8 8,-8 z"
+     sodipodi:nodetypes="ssssssssssssssssssssssssssssssssss" /></svg>

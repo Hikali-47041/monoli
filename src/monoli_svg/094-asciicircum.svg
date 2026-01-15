@@ -4,12 +4,12 @@
 <svg
    height="1000"
    width="1000"
-   sodipodi:docname="94-asciicircum.svg"
+   sodipodi:docname="094-asciicircum.svg"
    version="1.1"
    id="svg1"
    xml:space="preserve"
    viewBox="0 0 1000 1000"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      borderopacity="0.3"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="413"
-     inkscape:cy="211"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="439.11331"
+     inkscape:cy="322.08714"
      inkscape:document-units="px"
      inkscape:current-layer="svg1"
      showgrid="false"
@@ -1701,4 +1701,5 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><path
      id="rect1"
      style="stroke-width:1.00157;paint-order:stroke markers fill"
-     d="m 335.95123,320.74234 c -3.1339,3.13389 -3.1339,8.1798 0,11.31369 l 45.25483,45.25484 c 3.1339,3.1339 8.17981,3.1339 11.31371,0 L 500,269.83064 607.48023,377.31087 c 3.1339,3.1339 8.17981,3.1339 11.31371,0 l 45.25483,-45.25484 c 3.1339,-3.13389 3.1339,-8.1798 0,-11.31369 L 550.91169,207.60525 505.65685,162.35042 c -3.13389,-3.1339 -8.17981,-3.1339 -11.3137,0 l -45.25484,45.25483 z" /></svg>
+     d="m 335.95123,320.74234 c -3.1339,3.13389 -3.1339,8.1798 0,11.31369 l 45.25483,45.25484 c 3.1339,3.1339 8.17981,3.1339 11.31371,0 L 500,269.83064 607.48023,377.31087 c 3.1339,3.1339 8.17981,3.1339 11.31371,0 l 45.25483,-45.25484 c 3.1339,-3.13389 3.1339,-8.1798 0,-11.31369 L 505.65685,162.35042 c -3.13389,-3.1339 -8.17981,-3.1339 -11.3137,0 z"
+     sodipodi:nodetypes="ccsscssscccc" /></svg>

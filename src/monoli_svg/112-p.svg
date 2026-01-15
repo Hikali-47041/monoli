@@ -9,7 +9,7 @@
    id="svg1"
    xml:space="preserve"
    viewBox="0 0 1000 1000"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="472.49999"
-     inkscape:cy="607.49998"
+     inkscape:cx="472.5"
+     inkscape:cy="607.5"
      inkscape:document-units="px"
      inkscape:current-layer="svg1"
      showgrid="false"
@@ -142,7 +142,7 @@
        id="path-effect5"
        is_visible="true"
        lpeversion="1"
-       nodesatellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 | F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1"
+       nodesatellites_param="F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 | F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1 @ F,0,0,1,0,8,0,1"
        radius="8"
        unit="px"
        method="auto"
@@ -1675,6 +1675,5 @@
      y="480" /><path
      id="rect2"
      style="fill:#000000;stroke-width:1.00157;paint-order:stroke markers fill"
-     d="m 300,408 v 64 200 80 200 a 8,8 45 0 0 8,8 h 64 a 8,8 135 0 0 8,-8 V 760 h 312 a 8,8 135 0 0 8,-8 V 688 488 408 a 8,8 45 0 0 -8,-8 H 636 388 308 a 8,8 135 0 0 -8,8 z m 88,72 h 232 a 8,8 45 0 1 8,8 v 184 a 8,8 135 0 1 -8,8 H 388 a 8,8 45 0 1 -8,-8 V 488 a 8,8 135 0 1 8,-8 z"
-     inkscape:path-effect="#path-effect5"
-     inkscape:original-d="m 300,400 v 80 200 80 200 h 80 V 760 H 700 V 680 480 400 H 628 380 Z m 80,80 H 628 V 680 H 380 Z" /></svg>
+     d="m 300,408 v 544 a 8,8 45 0 0 8,8 h 64 a 8,8 135 0 0 8,-8 V 760 h 312 a 8,8 135 0 0 8,-8 V 408 a 8,8 45 0 0 -8,-8 H 308 a 8,8 135 0 0 -8,8 z m 88,72 h 232 a 8,8 45 0 1 8,8 v 184 a 8,8 135 0 1 -8,8 H 388 a 8,8 45 0 1 -8,-8 V 488 a 8,8 135 0 1 8,-8 z"
+     sodipodi:nodetypes="cccccccccccc" /></svg>

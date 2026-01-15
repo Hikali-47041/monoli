@@ -4,12 +4,12 @@
 <svg
    height="1000"
    width="1000"
-   sodipodi:docname="92-backslash.svg"
+   sodipodi:docname="092-backslash.svg"
    version="1.1"
    id="svg1"
    xml:space="preserve"
    viewBox="0 0 1000 1000"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      borderopacity="0.3"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="-85"
-     inkscape:cy="373"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="304.05592"
+     inkscape:cy="253.85133"
      inkscape:document-units="px"
      inkscape:current-layer="svg1"
      showgrid="false"
@@ -1682,13 +1682,8 @@
          id="missing-glyph8-7-5-6" /></font></defs><metadata
      id="metadata7"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><rect
-     style="fill:#000000;stroke-width:1.00157;paint-order:stroke markers fill"
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><path
      id="rect1"
-     width="80"
-     height="673"
-     x="-233.01271"
-     y="329.19217"
-     rx="8"
-     ry="8"
-     transform="matrix(-0.8660254,0.5,0.5,0.8660254,0,0)" /></svg>
+     style="stroke-width:1.00172;paint-order:stroke markers fill"
+     transform="matrix(-0.8660254,0.5,0.5,0.8660254,0,0)"
+     d="m -225.01865,329.14212 h 64.01191 c 4.432,0 8,3.568 8,8 v 657.10016 c 0,4.432 -3.568,8.00002 -8,8.00002 h -64.01191 c -4.432,0 -8,-3.56802 -8,-8.00002 V 337.14212 c 0,-4.432 3.568,-8 8,-8 z" /></svg>

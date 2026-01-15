@@ -9,7 +9,7 @@
    id="svg1"
    xml:space="preserve"
    viewBox="0 0 1000 1000"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
-     inkscape:cx="547.6542"
-     inkscape:cy="546.23999"
+     inkscape:cx="507.3491"
+     inkscape:cy="562.50343"
      inkscape:document-units="px"
      inkscape:current-layer="svg1"
      showgrid="false"
@@ -1828,9 +1828,8 @@
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><path
      id="rect47"
-     style="fill:#000000;fill-opacity:1;stroke-width:1.00157;paint-order:stroke markers fill"
-     d="M -549.20514,46.084001 V -17.918502 -121.61737 a 8,8 45 0 0 -8,-8 h -63.99974 a 8,8 135 0 0 -8,8 v 87.732014 a 8.003355,8.003355 134.98799 0 1 -8,8.003354 l -191.51789,0.0803 a 8.003355,8.003355 134.98799 0 0 -8,8.003354 l 0,63.999741 a 1659203.9,1659203.9 90.000276 0 1 -8e-5,16 l -8.4e-4,87.700245 a 7.9999229,7.9999229 45.000276 0 0 7.99992,8 h 63.99974 a 8.0000771,8.0000771 135.00028 0 0 8.00008,-8 l 8.4e-4,-87.733391 a 8.0033256,8.0033256 134.98865 0 1 8.00008,-8.003248 l 191.51789,-0.07775 a 8.0032485,8.0032485 134.98837 0 0 8,-8.003248 z"
-     transform="rotate(-135,7.4106309e-5,-3.0695838e-5)" /><rect
+     style="fill:#000000;fill-opacity:1;stroke-width:1.00159;paint-order:stroke markers fill"
+     d="m 420.93029,355.76113 -45.25824,45.2566 -73.32882,73.32618 a 8.0002886,8 0 0 0 0,11.3137 l 45.25629,45.25465 a 8.0002886,8 0 0 0 11.31411,0 l 62.03814,-62.0359 a 8.0036437,8.003355 0 0 1 11.31649,-0.002 l 135.48527,135.36682 a 8.0036437,8.003355 0 0 0 11.31649,-0.002 l 45.25628,-45.25465 a 1659263.8,1659203.9 0 0 1 11.31417,-11.31366 l 62.01627,-62.01284 a 8.0002115,7.9999229 0 0 0 6e-5,-11.31365 l -45.25628,-45.25465 a 8.0003657,8.0000771 0 0 0 -11.31418,-6e-5 l -62.0397,62.03628 a 8.0036143,8.0033256 0 0 1 -11.31647,0.002 L 432.2467,355.75883 a 8.0035372,8.0032485 0 0 0 -11.31641,0.002 z" /><rect
      style="fill:#4c9f94;fill-opacity:0.323275;stroke-width:1.00157;paint-order:stroke markers fill"
      id="rect49"
      width="0.083999999"

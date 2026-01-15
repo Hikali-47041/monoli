@@ -4,12 +4,12 @@
 <svg
    height="1000"
    width="1000"
-   sodipodi:docname="82-R.svg"
+   sodipodi:docname="082-R.svg"
    version="1.1"
    id="svg1"
    xml:space="preserve"
    viewBox="0 0 1000 1000"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,9 +23,9 @@
      borderopacity="0.3"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25000001"
-     inkscape:cx="-319.99999"
-     inkscape:cy="341.99999"
+     inkscape:zoom="1"
+     inkscape:cx="545.5"
+     inkscape:cy="551.5"
      inkscape:document-units="px"
      inkscape:current-layer="svg1"
      showgrid="false"
@@ -1685,13 +1685,5 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><path
      id="rect5"
      style="fill:#000000;stroke-width:1.00157;paint-order:stroke markers fill"
-     d="m 300,168 v 64 200 80 280 a 8,8 45 0 0 8,8 h 64 a 8,8 135 0 0 8,-8 V 520 h 232 80 a 8,8 135 0 0 8,-8 V 448 248 168 a 8,8 45 0 0 -8,-8 H 628 388 308 a 8,8 135 0 0 -8,8 z m 88,72 h 224 a 8,8 45 0 1 8,8 l 0,184 a 8,8 135 0 1 -8,8 H 388 a 8,8 45 0 1 -8,-8 V 248 a 8,8 135 0 1 8,-8 z" /><rect
-     style="fill:#000000;stroke-width:1.00157;paint-order:stroke markers fill"
-     id="rect2"
-     width="80"
-     height="400"
-     x="-110.71068"
-     y="625.33618"
-     rx="8"
-     ry="8"
-     transform="rotate(-45)" /></svg>
+     d="M 307.99998,160 C 303.58171,160 300,163.58172 300,167.99999 V 791.9992 c 0,4.41827 3.58171,7.99999 7.99998,7.99999 h 63.99987 c 4.41827,0 7.99999,-3.58172 7.99999,-7.99999 V 536.56788 l 261.07955,261.0817 c 3.13389,3.13389 8.18053,3.13389 11.31442,0 l 45.25577,-45.2558 c 3.13389,-3.1339 3.13389,-8.18054 0,-11.31444 L 476.568,519.99954 h 215.4312 c 4.41827,0 7.99999,-3.58171 7.99999,-7.99999 V 167.99999 c 0,-4.41827 -3.58172,-7.99999 -7.99999,-7.99999 z m 79.99984,79.9999 h 223.99954 c 4.41828,0 7.99999,3.58171 7.99999,7.99999 v 183.99976 c 0,4.41828 -3.58171,7.99999 -7.99999,7.99999 H 387.99982 c -4.41827,0 -7.99998,-3.58171 -7.99998,-7.99999 V 247.99989 c 0,-4.41828 3.58171,-7.99999 7.99998,-7.99999 z"
+     sodipodi:nodetypes="ssssssccssccssssssssssssss" /></svg>
